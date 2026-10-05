@@ -1,11 +1,11 @@
 1. Input Section
-    a.String input - Hybrid string with delimitters 
-    b.Strings to words: loops and sstream
-    c.Numbers to Digits
-    d.Matrix - Print, Transpose, Diagonal
-    e.Linked List
-    f.Tree
-    g.Graph
+  >  a.String input - Hybrid string with delimitters 
+  >  b.Strings to words: loops and sstream
+  >  c.Numbers to Digits
+  >  d.Matrix - Print, Transpose, Diagonal
+  >  e.Linked List
+  >  f.Tree
+  >  g.Graph
 2. Logic Questions
     a.Monotonic Deque
     b.Monotonic Stack
