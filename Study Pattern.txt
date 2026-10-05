@@ -1,0 +1,97 @@
+1. Input Section
+    a.String input - Hybrid string with delimitters 
+    b.Strings to words: loops and sstream
+    c.Numbers to Digits
+    d.Matrix - Print, Transpose, Diagonal
+    e.Linked List
+    f.Tree
+    g.Graph
+2. Logic Questions
+    a.Monotonic Deque
+    b.Monotonic Stack
+    c.Reverse Linked list 
+    d.Kadane's Algorithm
+    e.Find Mid of Linkedlist
+    f.CRUD of LinkedList 
+    g.Prefix Sum
+    h.Maths Problems
+        a.N-Factorial 
+        b.N-Fibonacci 
+        c.GCD and LCM
+        d.isPrime
+        e.Steve of Erasthothenes
+        f.String:
+            a.Permutations
+            b.Anagram
+            c.Remove all occurence of Substring
+            d.Reverse word in String 
+        g.Move all Zeroes to the end
+3. Tree and Graph Iterations
+    a.Tree BFS
+    b.Tree DFS
+        a.Pre-order
+        b.Post-order 
+        c.In-order 
+    c.Graph bfs 
+    d.Graph dfs
+4. Tree and Graph Terminologies'
+    a.Tree Terminologies
+        a.Height of the Tree
+        b.Count of leaves
+        c.Internal counts
+        d.Total Nodes
+        e.Identical Trees 
+        f.Symmetric Tree
+        g.Diameter of Tree 
+        h.Invert Tree 
+        i.Valid BST
+        j.Search in BST 
+        k.Max Path Sum
+        l.Count path till K 
+        m.Lowest Common ancestor
+        n.Max level sum of Tree 
+        o.Right View
+        p.Left View
+        q.Boundary View
+        r.Top View 
+    b.Graph Cycle Detection (BFS)
+    c.Graph Cycle Detection (DFS)
+    d.Topological Sort DFS
+    e.Topological Sort BFS
+    f.Rotten Oranges
+5. Minimum Spanning Tree
+    a.Djikstra Algorithm
+    b.Bellamford Algorithm
+    c.Prims Algorithm
+    d.Disjoin Union
+    e.Kruskal Algorithm
+6. Backtracking and Recursion
+    a.Subsets - with and without duplicates
+    b.Permutation
+    c.N-queen
+    d.Sudoku Solver
+    e.Rat in a Maze
+    f.Combination sum
+    g.Pallindrome Partitioning
+7. Dynamic Programming
+    a.Minimum Staircase problem
+    b.House Robber
+    c.N-tribonacci
+    d.Unique Path - I 
+    e.Unique Path - II 
+    f.Longest Common Subsequence
+    g.Edit Distance
+    h.Longest Pallindrome Subsequence
+    i.Longest increasing Subsequence
+    j.Partition array for maximum sum 
+    k.Parition equal subset 
+    l.Coin Change
+8. Binary Programming
+    a.Number of 1 bits
+    b.Counting Bits 
+    c.Power of Two
+    d.Single Number 
+    e.Missing Number 
+    f.Bitwise AND of number Range
+    g.Binary Subsets using Bitmask
+----------------------------------------------   
